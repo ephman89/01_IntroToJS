@@ -2,9 +2,10 @@
 var _FRUITS = [];
 var _EXIT_CODE = 'Dog';
 
+
 // This function sets variables to certain values
 function InitializeVariables() {
-	_FRUITS = ['Apple', 'Banana', 'Cherry', 'Kiwi', 'Pineapple', 'Tomato'];
+	_FRUITS = ['Apple', 'Banana', 'Cherry', 'Kiwi', 'Pineapple', 'Tomato', 'Ass'];
 }
 
 
